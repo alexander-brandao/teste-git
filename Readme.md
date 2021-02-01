@@ -16,4 +16,5 @@
 - GIT STATUS // informa o estado das alteraçoes do nosso projeto
 - GIT SHOW // apresenta determinado ponto na historia 
 - GIT BRANCH // gerencia novas linhas do tempo
+- GIT CHECKOUT // manipula as linhas do tempo
 
