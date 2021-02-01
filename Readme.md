@@ -15,3 +15,5 @@
 - GIT LOG // visualiza os pontos na linha do tempo / commit
 - GIT STATUS // informa o estado das alteraçoes do nosso projeto
 - GIT SHOW // apresenta determinado ponto na historia 
+- GIT BRANCH // gerencia novas linhas do tempo
+
